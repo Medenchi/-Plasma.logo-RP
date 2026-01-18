@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/plasma_logo.png",
+      "ascent": 12,
+      "height": 64,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}
